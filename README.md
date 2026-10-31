@@ -1,2 +1,4 @@
 # apnaCollege-demo
-This is my first repoistory. author - anubhav pandey
+This is my first repoistory.
+<br>
+Author - anubhav pandey.
